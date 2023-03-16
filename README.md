@@ -18,6 +18,7 @@
  <a href="https://www.youtube.com/@SaoriS2" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/dianajade321/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/diana-ferreira-ribeiro-38256436/" target="_blank"><img src="./src/imagens/linkedin-in.svg"></a>
-  ![Snake animation](https://github.com/SaoriS2/SaoriS2/blob/output/github-contribution-grid-snake.svg)
+  
+ ![Snake animation](https://github.com/SaoriS2/SaoriS2/blob/output/github-contribution-grid-snake.svg)
 
 </div>
