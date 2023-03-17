@@ -18,8 +18,7 @@
  <!DOCTYPE html>
 <html>
   <head>
-    <title>Botão YouTube</title>
-  </head>
+    </head>
   <body>
     <a href="https://www.youtube.com/@SaoriS2" target="_blank">
       <button>YouTube</button>
