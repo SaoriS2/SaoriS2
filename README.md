@@ -18,7 +18,7 @@
  <!DOCTYPE html>
 <html>
   <head>
-    <title>Botão Instagram</title>
+    <title>Botão YouTube</title>
   </head>
   <body>
     <a href="https://www.youtube.com/@SaoriS2" target="_blank">
