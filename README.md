@@ -15,32 +15,9 @@
   ### Pra conteúdo sobre programação me segue nas redes sociais abaixo!
  
 <div> 
-<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>instagram</title>
-    </head>
-    <body>
-        <section>
-            <button class="button-as-link">
-                <a href="https://www.instagram.com/dianajade321/" target="_blank">
-                    acesse o link do instagram
-                </a>
-        <section>
-            <button class="button-as-link">
-                <a href="https://www.youtube.com/@SaoriS2" target="_blank">
-                    acesse o link do youtube
-                </a>
-        <section>
-            <button class="button-as-link">
-                <a href="https://www.linkedin.com/in/diana-ferreira-ribeiro-38256436/" target="_blank">
-                    acesse o link do linkedin        
-                </a>
-    </body>
-    </html>
+ <a href="https://www.youtube.com/@SaoriS2" target="_blank"> <img src="https://img.shields.io/badge/YouTube-DF0101?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/dianajade321/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/diana-ferreira-ribeiro-38256436/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/SaoriS2/SaoriS2/blob/output/github-contribution-grid-snake.svg)
 
